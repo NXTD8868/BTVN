@@ -1,0 +1,101 @@
+#big {
+    background-color: rgb(210,210,210); 
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid rbg(228,228,228);
+    border-radius: 5px
+
+
+}
+#see-more {
+    background-color:rgb(102,204,255);
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    color: white;
+    border: 1px solid black;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+
+}
+
+.items {
+    background-color:rgb(210,210,210);
+    position: absolute;
+    
+
+}
+#fs {
+    height: 80px;
+    width: 300px;
+    border-color: rbg(232,232,232);
+    border: 0.5px solid black;
+    position: relative;
+    background-color:rgb(210,210,210);
+}
+.pic {
+    width: 40px;
+    height: 40px;
+    left:7px;
+    top:5px;
+    
+}
+img {
+    width: 40px;
+    height:40px;
+}
+#text1{
+    width:180px;
+    height:50px;
+    border: 1px solid black;
+    top:20px;
+    left:80px;
+    font-weight: bold;
+}
+#name1 {
+    width: 120px;
+    height:10px;
+    font-size: 10px;
+    left:80px;
+    top:5px;
+}
+.abc {
+    background-color: rgb(210,210,210);
+}
+#sc{
+    height: 80px;
+    width: 300px;
+    border-color: rbg(232,232,232);
+    border: 0.5px solid black ;
+    border-bottom:0;
+    position: relative;
+    background-color:rgb(210,210,210);
+}
+#pic2 {
+    width: 40px;
+    height: 40px;
+    left:7px;
+    top:5px;
+}
+#thr{
+    height: 80px;
+    width: 300px;
+    border-color: rbg(232,232,232);
+    border: 0.5px solid black ;
+    border-top:0;
+    position: relative;
+    background-color:rgb(210,210,210);
+}
+#th{
+    height: 80px;
+    width: 300px;
+    border-color: rbg(232,232,232);
+    border: 0.5px solid black ;
+    position: relative;
+    background-color:rgb(210,210,210);
+}

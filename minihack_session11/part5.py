@@ -45,3 +45,4 @@ print(p['Skill'])
 for items in p['Skill']:
     for k,v in items.items():
         print(k,':',v)
+
